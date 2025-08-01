@@ -97,3 +97,4 @@ You can email me any interesting quests you made. If I like it, I'll add it to t
 * Ship - selected ship `Build`
 * EmptyShip - selected `Ship` without weapons and modules
 * Component - random amount of selected `Component`s between `MinAmount` and `MaxAmount`
+* <Alliance mod/Building or Capital ship Mothership>
